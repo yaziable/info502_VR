@@ -2,9 +2,9 @@
 
 INFO-H-502 3D Graphics Project Report
 
-Students: [STUDENT 1] and [STUDENT 2]
+Students: Aziable Yawa, TCHAMAKAM DJIOWA Murielle and Milong Irene
 
-Git repository: [ADD GIT REPOSITORY LINK]
+Git repository: https://github.com/yaziable/info502_VR.git
 
 Project folder: `scene_shadow_creatures3/ShadowCreatures`
 
