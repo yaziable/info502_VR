@@ -1,0 +1,33 @@
+# CMake/build outputs
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake.tmp*
+_deps/
+
+# Compiled artifacts
+*.exe
+*.dll
+*.a
+*.lib
+*.so
+*.dylib
+*.obj
+*.o
+
+# Wavefront model assets used by the scene
+!**/models/*.obj
+
+# App/runtime local state
+imgui.ini
+
+# IDE/OS files
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

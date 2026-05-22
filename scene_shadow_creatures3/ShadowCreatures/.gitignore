@@ -1,0 +1,21 @@
+# Build directories
+build/
+CMakeFiles/
+_deps/
+
+# Executables
+*.exe
+*.dll
+*.a
+*.lib
+*.so
+
+# Wavefront model assets used by the scene
+!models/*.obj
+
+# Config
+imgui.ini
+
+# OS
+.DS_Store
+Thumbs.db
